@@ -1,0 +1,7 @@
+clips/*
+*.pt
+config.json
+training/*
+runs/*
+models/*
+issues.md
