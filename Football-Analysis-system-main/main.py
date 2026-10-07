@@ -11,7 +11,6 @@ def main():
     # save video
     save_video(video_frames, 'clips/output/08fd33_4.avi')
 
-
 if __name__ == 'main':
     # Setting PYTHONPATH to include the current directory
     os.environ['PYTHONPATH'] = os.path.join(os.getcwd(), '')
